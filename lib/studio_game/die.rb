@@ -1,9 +1,9 @@
 module StudioGame
-	class Die
-		attr_reader :number
+  class Die
+    attr_reader :number
 
-		def roll
-			@number = rand(1..6)
-		end
-	end
+    def roll
+      @number = rand(1..6)
+    end
+  end
 end
