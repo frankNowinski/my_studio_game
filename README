@@ -1,0 +1,13 @@
+This dynamic program allows players to compete for the highest score by accumulating treasures and maintaining their health. 
+
+Each round a player is either w00ted, blammed or skipped depending on what number of the die is rolled; if a player is w00ted they gain health, if a player is blammed they lose health, and if a player is skipped their health remains unchanged. Also, every round a player has the chance to discover one of six various treasures with point values ranging from 5 to 400 to add to their total points value.
+
+Once the maximum number of points is achieved the game is ended and the high scores are printed out in descending order. In addition, each players health status(either strong or whimpy) and a list of their accumulated treasures are printed out as well. 
+
+Lastly, the high scores are printed out to an external file stored in bin so the users have a record of their scores. 
+
+Presented before you is my first complete Ruby project, developed incrementally throughtout the comprehensive Pragmatic Studio's Ruby Programming course found at https://pragmaticstudio.com.
+
+
+
+
