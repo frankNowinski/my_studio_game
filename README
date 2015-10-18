@@ -1,3 +1,5 @@
+# My Studio Game
+
 This dynamic program allows players to compete for the highest score by accumulating treasures and maintaining their health. 
 
 Each round a player is either w00ted, blammed or skipped depending on what number of the die is rolled; if a player is w00ted they gain health, if a player is blammed they lose health, and if a player is skipped their health remains unchanged. Also, every round a player has the chance to discover one of six various treasures with point values ranging from 5 to 400 to add to their total points value.
